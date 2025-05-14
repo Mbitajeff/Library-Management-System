@@ -13,4 +13,5 @@ This project implements a full-featured Library Management System using MySQL. I
 4. Run the SQL script to create the database schema.
 
 ## ERD
-![ERD](https://example.com/erd.png) <!-- Replace with your actual ERD link or screenshot --> 
+![Library Management System ERD](ERD.png)
+*Entity Relationship Diagram showing the database structure* 
